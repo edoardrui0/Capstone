@@ -236,12 +236,12 @@ span a {
 .course-selection-text {
   background-color: rgba(124, 148, 87, 0.521);
   padding: 16px 16px 24px 16px;
-  background: linear-gradient(#7C9457, 20% ,rgba(138, 255, 243, 0.05));
+  background: linear-gradient(#7C9457, 10% ,rgba(138, 255, 243, 0.05));
   font-family: 'Work Sans'
 }
 
 .gradient-white {
-  background: linear-gradient(rgb(188, 216, 147), 35% ,white);
+  background: linear-gradient(rgb(188, 216, 147), 10% ,white);
 }
 
 .course-selection-text h1 {
